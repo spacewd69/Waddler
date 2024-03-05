@@ -17,7 +17,7 @@
 		"enabled": true
 	}, {
 		"name": "Censor",
-		"enabled": true
+		"enabled": false
 	}, {
 		"name": "PatchedItems",
 		"enabled": true
